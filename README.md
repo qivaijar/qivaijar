@@ -32,9 +32,10 @@
   - Developing inference engines for production use
     
 - **Software Engineering**:  
-  - Developing python-based libraries and wrap it as a package
-  - Working with docker to develop RESTful-based
-  - This section will be updated soon.
+  - Developing Python-based libraries and packaging them
+  - Using Docker to train AI/ML models and develop various services
+  - Developing RESTful API services
+  - Managing CI/CD workflows to automate tasks
 
 - **Research & Development**:  
   - This section will be updated soon.
