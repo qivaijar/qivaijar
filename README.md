@@ -1,7 +1,7 @@
 # Hi, I'm Rizki Rivai Ginanjar! （リズキ）👋  
 
 🎯 **Senior Artificial Intelligence (AI) Engineer | Technical Product Manager**  
-🚀 Passionate about developing innovative AI-driven solutions.  
+🚀 Passionate about developing innovative AI-driven solutions.
 
 ---
 
@@ -24,17 +24,20 @@
 
 ## 💼 **What I Do**  
 - **AI & Machine Learning**:  
-  - AI/ML model planning or ideation or conception
-  - Leading the data gathering or collection process
-  - Processing the data to become a proper dataset for model training
-  - Training AI/ML models from scratch or fine-tuning from pre-trained model (including d
-  - Expertise in deploying ML models using MLOps principles.
+  - Planning, ideation, and conceptualization of AI/ML models
+  - Leading data gathering / collection processes
+  - Processing raw data into properly structured datasets for model training
+  - Training AI/ML models from scratch or fine-tuning pre-trained models (including hyperparameter tuning and monitoring the training process)
+  - Evaluating the quality and performance of trained models
+  - Developing inference engines for production use
     
 - **Software Engineering**:  
-  - Collaborate with stakeholders to deliver impactful AI-powered products.  
+  - Developing python-based libraries and wrap it as a package
+  - Working with docker to develop RESTful-based
+  - This section will be updated soon.
 
 - **Research & Development**:  
-  - Explore cutting-edge AI/ML techniques to improve voice synthesis and paralinguistic features.  
+  - This section will be updated soon.
 
 ---
 
